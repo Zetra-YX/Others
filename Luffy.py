@@ -12,5 +12,5 @@ games = {
     "11": ("Farlight", "https://drive.usercontent.google.com/download?id=10SenBHPAMEHocA-WbA4gTxSI6ajkDLTq&export=download&authuser=0&confirm=t&uuid=4c848684-e17d-4354-9050-8eff26b3fbef&at=AIrpjvPz4AksvCq3EGYvCnq0ceMh%3A1739511074671", "online", "VIP"),
     "12": ("Arena", "https://drive.usercontent.google.com/download?id=1gt2WHKyn6nXxmB6Nw9nnWhsLY5oHmxiV&export=download&authuser=0&confirm=t&uuid=68a58da5-5331-4f68-9663-9f0327b44fdd&at=AIrpjvPJuPwZ3M0bFjYwPxDXcH1x%3A1739511101694", "online", "VIP"),
     "13": ("Squad", "https://drive.usercontent.google.com/download?id=1Supe4ntHMvXLpYL_m2VvAIfUWbzPU4Tf&export=download&authuser=0&confirm=t&uuid=45124f72-4458-418d-9bee-8ae1acb9ad05&at=AIrpjvOazInNkvpSnr8QCkDe9gvS%3A1739511119824", "online", "VIP"),
-    "14": ("OneClick", "https://drive.usercontent.google.com/download?id=1yLrQ4Y8NbvN9KvNRxE67Ia1b1rQLi2TV&export=download&authuser=0&confirm=t&uuid=aca8cdf7-9350-4d27-aaea-2cb8fb5cefd9&at=AIrpjvNXwr8-elZnjRrt9Ag7_RUT%3A1739679953187", "online", "VIP")
+    "14": ("Spoofer - OneClick", "https://drive.usercontent.google.com/download?id=1yLrQ4Y8NbvN9KvNRxE67Ia1b1rQLi2TV&export=download&authuser=0&confirm=t&uuid=aca8cdf7-9350-4d27-aaea-2cb8fb5cefd9&at=AIrpjvNXwr8-elZnjRrt9Ag7_RUT%3A1739679953187", "online", "VIP")
 }
